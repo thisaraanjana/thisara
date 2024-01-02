@@ -562,7 +562,7 @@ section .container {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 180px;
+  width: 300px;
   border-radius: 10%;
   margin: -40px 0 0 40px;
   position: relative;
