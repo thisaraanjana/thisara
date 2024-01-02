@@ -36,12 +36,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: hsl(247, 90%, 45%);
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #210aee;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ h6 {
 
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #18d26e;
+  border-bottom: 2px solid #340ade;
   padding-bottom: 6px;
 }
 
@@ -124,7 +124,7 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #18d26e;
+  background: #4304ee;
 }
 
 @media (max-width: 992px) {
@@ -247,7 +247,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  background-color: #3b07e9;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -411,7 +411,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #2e07f3;
 }
 
 .about-me .content ul {
@@ -432,7 +432,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: #3006ea;
   line-height: 0;
 }
 
@@ -463,7 +463,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #18d26e;
+  color: #1308ee;
   border-radius: 50px;
   line-height: 0;
 }
@@ -515,7 +515,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: #3606f5;
 }
 
 /*--------------------------------------------------------------
@@ -626,7 +626,7 @@ section .container {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: #4f0bfd;
 }
 
 /*--------------------------------------------------------------
@@ -653,7 +653,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #18d26e;
+  color: #3a04ed;
   margin-bottom: 10px;
 }
 
