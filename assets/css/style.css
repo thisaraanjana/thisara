@@ -1012,7 +1012,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #1f0469;
+  color: #400bd2;
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -1073,7 +1073,7 @@ section .container {
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #1f0469;
+  background: #3d06d3;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1093,7 +1093,7 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #1f0469;
+  border: 3px solid #3f07d8;
   border-top-color: #eee;
   animation: animate-loading 1s linear infinite;
 }
